@@ -1,0 +1,316 @@
+2024-11-07 14:43:08,895  - INFO - *** test_001_Account Registartion started ***
+2024-11-07 14:43:08,902  - INFO - *** Clicking on My Account ***
+2024-11-07 14:43:09,748  - INFO - *** Providing Customer Details ***
+2024-11-07 14:43:15,137  - INFO - *** Account Registration Test is passed ***
+2024-11-07 14:43:16,837  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-07 14:46:04,445  - INFO - *** test_001_Account Registartion started ***
+2024-11-07 14:46:04,453  - INFO - *** Clicking on My Account ***
+2024-11-07 14:46:05,350  - INFO - *** Providing Customer Details ***
+2024-11-07 14:46:11,154  - INFO - *** Account Registration Test is passed ***
+2024-11-07 14:46:13,148  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-07 14:47:39,278  - INFO - *** test_001_Account Registartion started ***
+2024-11-07 14:47:39,283  - INFO - *** Clicking on My Account ***
+2024-11-07 14:47:40,083  - INFO - *** Providing Customer Details ***
+2024-11-07 14:47:45,642  - INFO - *** Account Registration Test is passed ***
+2024-11-07 14:47:48,479  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-07 14:55:09,582  - INFO - *** test_001_Account Registartion started ***
+2024-11-07 14:55:09,587  - INFO - *** Clicking on My Account ***
+2024-11-07 14:55:10,593  - INFO - *** Providing Customer Details ***
+2024-11-07 14:55:15,988  - INFO - *** Account Registration Test is passed ***
+2024-11-07 14:55:17,376  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-07 14:55:59,380  - INFO - *** test_001_Account Registartion started ***
+2024-11-07 14:55:59,386  - INFO - *** Clicking on My Account ***
+2024-11-07 14:56:00,454  - INFO - *** Providing Customer Details ***
+2024-11-07 14:56:05,981  - INFO - *** Account Registration Test is passed ***
+2024-11-07 14:56:07,794  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-07 15:12:24,498  - INFO - *** test_001_Account Registartion started ***
+2024-11-07 15:12:24,505  - INFO - *** Clicking on My Account ***
+2024-11-07 15:12:25,585  - INFO - *** Providing Customer Details ***
+2024-11-07 15:12:30,935  - INFO - *** Account Registration Test is passed ***
+2024-11-07 15:12:32,288  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-07 15:24:43,305  - INFO - *** test_001_Account Registartion started ***
+2024-11-07 15:24:43,318  - INFO - *** Clicking on My Account ***
+2024-11-07 15:24:44,179  - INFO - *** Providing Customer Details ***
+2024-11-07 15:24:49,538  - INFO - *** Account Registration Test is passed ***
+2024-11-07 15:24:50,867  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-07 16:00:49,449  - INFO - *** test_001_Account Registartion started ***
+2024-11-07 16:00:49,449  - INFO - *** test_001_Account Registartion started ***
+2024-11-07 16:00:49,454  - INFO - *** Clicking on My Account ***
+2024-11-07 16:00:49,454  - INFO - *** Clicking on My Account ***
+2024-11-07 16:00:50,289  - INFO - *** Providing Customer Details ***
+2024-11-07 16:00:50,289  - INFO - *** Providing Customer Details ***
+2024-11-07 16:00:56,096  - INFO - *** Account Registration Test is passed ***
+2024-11-07 16:00:56,096  - INFO - *** Account Registration Test is passed ***
+2024-11-07 16:00:57,203  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-07 16:00:57,203  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-07 16:01:07,395  - INFO -  *** Starting test_002_login ***
+2024-11-07 16:01:07,395  - INFO -  *** Starting test_002_login ***
+2024-11-07 16:01:15,622  - INFO - *** test_002_login test is passed  ****
+2024-11-07 16:01:15,622  - INFO - *** test_002_login test is passed  ****
+2024-11-07 16:01:15,622  - INFO - *** test_002_login test is finished  ****
+2024-11-07 16:01:15,622  - INFO - *** test_002_login test is finished  ****
+2024-11-07 16:03:26,146  - INFO - *** test_001_Account Registartion started ***
+2024-11-07 16:03:26,146  - INFO - *** test_001_Account Registartion started ***
+2024-11-07 16:03:26,149  - INFO - *** Clicking on My Account ***
+2024-11-07 16:03:26,149  - INFO - *** Clicking on My Account ***
+2024-11-07 16:03:26,658  - INFO - *** Providing Customer Details ***
+2024-11-07 16:03:26,658  - INFO - *** Providing Customer Details ***
+2024-11-07 16:03:32,216  - INFO - *** Account Registration Test is passed ***
+2024-11-07 16:03:32,216  - INFO - *** Account Registration Test is passed ***
+2024-11-07 16:03:32,912  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-07 16:03:32,912  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-07 16:03:40,013  - INFO -  *** Starting test_002_login ***
+2024-11-07 16:03:40,013  - INFO -  *** Starting test_002_login ***
+2024-11-07 16:03:49,659  - INFO - *** test_002_login test is passed  ****
+2024-11-07 16:03:49,659  - INFO - *** test_002_login test is passed  ****
+2024-11-07 16:03:49,660  - INFO - *** test_002_login test is finished  ****
+2024-11-07 16:03:49,660  - INFO - *** test_002_login test is finished  ****
+2024-11-07 16:05:12,586  - INFO -  *** Starting test_002_login ***
+2024-11-07 16:05:20,224  - INFO - *** test_002_login test is passed  ****
+2024-11-07 16:05:20,225  - INFO - *** test_002_login test is finished  ****
+2024-11-07 17:01:03,112  - INFO - *** test_001_Account Registartion started ***
+2024-11-07 17:01:03,112  - INFO - *** test_001_Account Registartion started ***
+2024-11-07 17:01:03,128  - INFO - *** Clicking on My Account ***
+2024-11-07 17:01:03,128  - INFO - *** Clicking on My Account ***
+2024-11-07 17:01:03,643  - INFO - *** Providing Customer Details ***
+2024-11-07 17:01:03,643  - INFO - *** Providing Customer Details ***
+2024-11-07 17:01:08,956  - INFO - *** Account Registration Test is passed ***
+2024-11-07 17:01:08,956  - INFO - *** Account Registration Test is passed ***
+2024-11-07 17:01:09,352  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-07 17:01:09,352  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-07 17:01:14,818  - INFO -  *** Starting test_002_login ***
+2024-11-07 17:01:14,818  - INFO -  *** Starting test_002_login ***
+2024-11-07 17:01:22,249  - INFO - *** test_002_login test is passed  ****
+2024-11-07 17:01:22,249  - INFO - *** test_002_login test is passed  ****
+2024-11-07 17:01:22,249  - INFO - *** test_002_login test is finished  ****
+2024-11-07 17:01:22,249  - INFO - *** test_002_login test is finished  ****
+2024-11-08 08:46:42,116  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 08:46:42,116  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 08:46:42,122  - INFO - *** Clicking on My Account ***
+2024-11-08 08:46:42,122  - INFO - *** Clicking on My Account ***
+2024-11-08 08:46:42,715  - INFO - *** Providing Customer Details ***
+2024-11-08 08:46:42,715  - INFO - *** Providing Customer Details ***
+2024-11-08 08:46:47,943  - INFO - *** Account Registration Test is passed ***
+2024-11-08 08:46:47,943  - INFO - *** Account Registration Test is passed ***
+2024-11-08 08:46:48,258  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 08:46:48,258  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 08:46:54,403  - INFO -  *** Starting test_002_login ***
+2024-11-08 08:46:54,403  - INFO -  *** Starting test_002_login ***
+2024-11-08 08:47:02,170  - INFO - *** test_002_login test is passed  ****
+2024-11-08 08:47:02,170  - INFO - *** test_002_login test is passed  ****
+2024-11-08 08:47:02,171  - INFO - *** test_002_login test is finished  ****
+2024-11-08 08:47:02,171  - INFO - *** test_002_login test is finished  ****
+2024-11-08 08:47:26,890  - INFO -  *** Starting test_002_login ***
+2024-11-08 08:47:26,890  - INFO -  *** Starting test_002_login ***
+2024-11-08 08:47:29,400  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 08:47:29,400  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 08:47:29,403  - INFO - *** Clicking on My Account ***
+2024-11-08 08:47:29,403  - INFO - *** Clicking on My Account ***
+2024-11-08 08:47:30,072  - INFO - *** Providing Customer Details ***
+2024-11-08 08:47:30,072  - INFO - *** Providing Customer Details ***
+2024-11-08 08:47:35,453  - INFO - *** Account Registration Test is passed ***
+2024-11-08 08:47:35,453  - INFO - *** Account Registration Test is passed ***
+2024-11-08 08:47:35,881  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 08:47:35,881  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 08:47:36,818  - INFO - *** test_002_login test is passed  ****
+2024-11-08 08:47:36,818  - INFO - *** test_002_login test is passed  ****
+2024-11-08 08:47:36,818  - INFO - *** test_002_login test is finished  ****
+2024-11-08 08:47:36,818  - INFO - *** test_002_login test is finished  ****
+2024-11-08 08:51:46,850  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 08:51:46,850  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 08:51:46,857  - INFO - *** Clicking on My Account ***
+2024-11-08 08:51:46,857  - INFO - *** Clicking on My Account ***
+2024-11-08 08:51:47,819  - INFO - *** Providing Customer Details ***
+2024-11-08 08:51:47,819  - INFO - *** Providing Customer Details ***
+2024-11-08 08:51:48,670  - INFO -  *** Starting test_002_login ***
+2024-11-08 08:51:48,670  - INFO -  *** Starting test_002_login ***
+2024-11-08 08:51:53,785  - INFO - *** Account Registration Test is passed ***
+2024-11-08 08:51:53,785  - INFO - *** Account Registration Test is passed ***
+2024-11-08 08:51:54,151  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 08:51:54,151  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 08:51:56,602  - INFO - *** test_002_login test is passed  ****
+2024-11-08 08:51:56,602  - INFO - *** test_002_login test is passed  ****
+2024-11-08 08:51:56,602  - INFO - *** test_002_login test is finished  ****
+2024-11-08 08:51:56,602  - INFO - *** test_002_login test is finished  ****
+2024-11-08 09:59:06,719  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 09:59:06,719  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 09:59:06,733  - INFO - *** Clicking on My Account ***
+2024-11-08 09:59:06,733  - INFO - *** Clicking on My Account ***
+2024-11-08 09:59:07,388  - INFO - *** Providing Customer Details ***
+2024-11-08 09:59:07,388  - INFO - *** Providing Customer Details ***
+2024-11-08 09:59:12,670  - INFO - *** Account Registration Test is passed ***
+2024-11-08 09:59:12,670  - INFO - *** Account Registration Test is passed ***
+2024-11-08 09:59:13,020  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 09:59:13,020  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 09:59:18,013  - INFO -  *** Starting test_002_login ***
+2024-11-08 09:59:18,013  - INFO -  *** Starting test_002_login ***
+2024-11-08 09:59:25,772  - INFO - *** test_002_login test is passed  ****
+2024-11-08 09:59:25,772  - INFO - *** test_002_login test is passed  ****
+2024-11-08 09:59:25,772  - INFO - *** test_002_login test is finished  ****
+2024-11-08 09:59:25,772  - INFO - *** test_002_login test is finished  ****
+2024-11-08 10:02:31,678  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 10:02:31,678  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 10:02:31,682  - INFO - *** Clicking on My Account ***
+2024-11-08 10:02:31,682  - INFO - *** Clicking on My Account ***
+2024-11-08 10:02:32,163  - INFO - *** Providing Customer Details ***
+2024-11-08 10:02:32,163  - INFO - *** Providing Customer Details ***
+2024-11-08 10:02:37,390  - INFO - *** Account Registration Test is passed ***
+2024-11-08 10:02:37,390  - INFO - *** Account Registration Test is passed ***
+2024-11-08 10:02:37,741  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 10:02:37,741  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 10:02:42,290  - INFO -  *** Starting test_002_login ***
+2024-11-08 10:02:42,290  - INFO -  *** Starting test_002_login ***
+2024-11-08 10:02:49,589  - INFO - *** test_002_login test is passed  ****
+2024-11-08 10:02:49,589  - INFO - *** test_002_login test is passed  ****
+2024-11-08 10:02:49,589  - INFO - *** test_002_login test is finished  ****
+2024-11-08 10:02:49,589  - INFO - *** test_002_login test is finished  ****
+2024-11-08 10:27:23,411  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 10:27:23,411  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 10:27:23,418  - INFO - *** Clicking on My Account ***
+2024-11-08 10:27:23,418  - INFO - *** Clicking on My Account ***
+2024-11-08 10:27:24,037  - INFO - *** Providing Customer Details ***
+2024-11-08 10:27:24,037  - INFO - *** Providing Customer Details ***
+2024-11-08 10:27:29,765  - INFO - *** Account Registration Test is passed ***
+2024-11-08 10:27:29,765  - INFO - *** Account Registration Test is passed ***
+2024-11-08 10:27:30,003  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 10:27:30,003  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 10:27:36,042  - INFO -  *** Starting test_002_login ***
+2024-11-08 10:27:36,042  - INFO -  *** Starting test_002_login ***
+2024-11-08 10:27:44,466  - INFO - *** test_002_login test is passed  ****
+2024-11-08 10:27:44,466  - INFO - *** test_002_login test is passed  ****
+2024-11-08 10:27:44,467  - INFO - *** test_002_login test is finished  ****
+2024-11-08 10:27:44,467  - INFO - *** test_002_login test is finished  ****
+2024-11-08 10:41:19,143  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 10:41:19,143  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 10:41:19,154  - INFO - *** Clicking on My Account ***
+2024-11-08 10:41:19,154  - INFO - *** Clicking on My Account ***
+2024-11-08 10:41:19,766  - INFO - *** Providing Customer Details ***
+2024-11-08 10:41:19,766  - INFO - *** Providing Customer Details ***
+2024-11-08 10:41:24,945  - INFO - *** Account Registration Test is passed ***
+2024-11-08 10:41:24,945  - INFO - *** Account Registration Test is passed ***
+2024-11-08 10:41:25,262  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 10:41:25,262  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 10:41:29,262  - INFO -  *** Starting test_002_login ***
+2024-11-08 10:41:29,262  - INFO -  *** Starting test_002_login ***
+2024-11-08 10:41:36,627  - INFO - *** test_002_login test is passed  ****
+2024-11-08 10:41:36,627  - INFO - *** test_002_login test is passed  ****
+2024-11-08 10:41:36,627  - INFO - *** test_002_login test is finished  ****
+2024-11-08 10:41:36,627  - INFO - *** test_002_login test is finished  ****
+2024-11-08 10:42:54,116  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 10:42:54,116  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 10:42:54,128  - INFO - *** Clicking on My Account ***
+2024-11-08 10:42:54,128  - INFO - *** Clicking on My Account ***
+2024-11-08 10:42:54,629  - INFO - *** Providing Customer Details ***
+2024-11-08 10:42:54,629  - INFO - *** Providing Customer Details ***
+2024-11-08 10:42:59,821  - INFO - *** Account Registration Test is passed ***
+2024-11-08 10:42:59,821  - INFO - *** Account Registration Test is passed ***
+2024-11-08 10:43:00,100  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 10:43:00,100  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 10:43:04,866  - INFO -  *** Starting test_002_login ***
+2024-11-08 10:43:04,866  - INFO -  *** Starting test_002_login ***
+2024-11-08 10:43:12,155  - INFO - *** test_002_login test is passed  ****
+2024-11-08 10:43:12,155  - INFO - *** test_002_login test is passed  ****
+2024-11-08 10:43:12,155  - INFO - *** test_002_login test is finished  ****
+2024-11-08 10:43:12,155  - INFO - *** test_002_login test is finished  ****
+2024-11-08 10:44:00,723  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 10:44:00,723  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 10:44:00,725  - INFO - *** Clicking on My Account ***
+2024-11-08 10:44:00,725  - INFO - *** Clicking on My Account ***
+2024-11-08 10:44:01,330  - INFO - *** Providing Customer Details ***
+2024-11-08 10:44:01,330  - INFO - *** Providing Customer Details ***
+2024-11-08 10:44:06,609  - INFO - *** Account Registration Test is passed ***
+2024-11-08 10:44:06,609  - INFO - *** Account Registration Test is passed ***
+2024-11-08 10:44:06,888  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 10:44:06,888  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 10:44:11,463  - INFO -  *** Starting test_002_login ***
+2024-11-08 10:44:11,463  - INFO -  *** Starting test_002_login ***
+2024-11-08 10:44:18,849  - INFO - *** test_002_login test is passed  ****
+2024-11-08 10:44:18,849  - INFO - *** test_002_login test is passed  ****
+2024-11-08 10:44:18,849  - INFO - *** test_002_login test is finished  ****
+2024-11-08 10:44:18,849  - INFO - *** test_002_login test is finished  ****
+2024-11-08 11:01:03,312  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 11:01:03,312  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 11:01:03,323  - INFO - *** Clicking on My Account ***
+2024-11-08 11:01:03,323  - INFO - *** Clicking on My Account ***
+2024-11-08 11:01:03,918  - INFO - *** Providing Customer Details ***
+2024-11-08 11:01:03,918  - INFO - *** Providing Customer Details ***
+2024-11-08 11:01:09,263  - INFO - *** Account Registration Test is passed ***
+2024-11-08 11:01:09,263  - INFO - *** Account Registration Test is passed ***
+2024-11-08 11:01:09,556  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 11:01:09,556  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 11:36:04,878  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 11:36:04,878  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 11:36:04,885  - INFO - *** Clicking on My Account ***
+2024-11-08 11:36:04,885  - INFO - *** Clicking on My Account ***
+2024-11-08 11:36:05,935  - INFO - *** Providing Customer Details ***
+2024-11-08 11:36:05,935  - INFO - *** Providing Customer Details ***
+2024-11-08 11:36:11,509  - INFO - *** Account Registration Test is passed ***
+2024-11-08 11:36:11,509  - INFO - *** Account Registration Test is passed ***
+2024-11-08 11:36:11,945  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 11:36:11,945  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 11:36:18,465  - INFO -  *** Starting test_002_login ***
+2024-11-08 11:36:18,465  - INFO -  *** Starting test_002_login ***
+2024-11-08 11:36:26,111  - INFO - *** test_002_login test is passed  ****
+2024-11-08 11:36:26,111  - INFO - *** test_002_login test is passed  ****
+2024-11-08 11:36:26,111  - INFO - *** test_002_login test is finished  ****
+2024-11-08 11:36:26,111  - INFO - *** test_002_login test is finished  ****
+2024-11-08 11:37:21,926  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 11:37:21,926  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 11:37:21,928  - INFO - *** Clicking on My Account ***
+2024-11-08 11:37:21,928  - INFO - *** Clicking on My Account ***
+2024-11-08 11:37:22,596  - INFO - *** Providing Customer Details ***
+2024-11-08 11:37:22,596  - INFO - *** Providing Customer Details ***
+2024-11-08 11:37:28,047  - INFO - *** Account Registration Test is passed ***
+2024-11-08 11:37:28,047  - INFO - *** Account Registration Test is passed ***
+2024-11-08 11:37:28,499  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 11:37:28,499  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 11:37:33,972  - INFO -  *** Starting test_002_login ***
+2024-11-08 11:37:33,972  - INFO -  *** Starting test_002_login ***
+2024-11-08 11:39:12,925  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 11:39:12,925  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 11:39:12,929  - INFO - *** Clicking on My Account ***
+2024-11-08 11:39:12,929  - INFO - *** Clicking on My Account ***
+2024-11-08 11:39:13,736  - INFO - *** Providing Customer Details ***
+2024-11-08 11:39:13,736  - INFO - *** Providing Customer Details ***
+2024-11-08 11:39:18,977  - INFO - *** Account Registration Test is passed ***
+2024-11-08 11:39:18,977  - INFO - *** Account Registration Test is passed ***
+2024-11-08 11:39:19,267  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 11:39:19,267  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 11:39:23,515  - INFO -  *** Starting test_002_login ***
+2024-11-08 11:39:23,515  - INFO -  *** Starting test_002_login ***
+2024-11-08 11:39:31,024  - INFO - *** test_002_login test is passed  ****
+2024-11-08 11:39:31,024  - INFO - *** test_002_login test is passed  ****
+2024-11-08 11:39:31,024  - INFO - *** test_002_login test is finished  ****
+2024-11-08 11:39:31,024  - INFO - *** test_002_login test is finished  ****
+2024-11-08 11:59:12,792  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 11:59:12,792  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 11:59:12,793  - INFO - *** Clicking on My Account ***
+2024-11-08 11:59:12,793  - INFO - *** Clicking on My Account ***
+2024-11-08 11:59:13,572  - INFO - *** Providing Customer Details ***
+2024-11-08 11:59:13,572  - INFO - *** Providing Customer Details ***
+2024-11-08 11:59:18,906  - INFO - *** Account Registration Test is passed ***
+2024-11-08 11:59:18,906  - INFO - *** Account Registration Test is passed ***
+2024-11-08 11:59:19,180  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 11:59:19,180  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 11:59:24,011  - INFO -  *** Starting test_002_login ***
+2024-11-08 11:59:24,011  - INFO -  *** Starting test_002_login ***
+2024-11-08 11:59:31,414  - INFO - *** test_002_login test is passed  ****
+2024-11-08 11:59:31,414  - INFO - *** test_002_login test is passed  ****
+2024-11-08 11:59:31,414  - INFO - *** test_002_login test is finished  ****
+2024-11-08 11:59:31,414  - INFO - *** test_002_login test is finished  ****
+2024-11-08 12:00:55,481  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 12:00:55,481  - INFO - *** test_001_Account Registartion started ***
+2024-11-08 12:00:55,484  - INFO - *** Clicking on My Account ***
+2024-11-08 12:00:55,484  - INFO - *** Clicking on My Account ***
+2024-11-08 12:00:56,065  - INFO - *** Providing Customer Details ***
+2024-11-08 12:00:56,065  - INFO - *** Providing Customer Details ***
+2024-11-08 12:01:01,959  - INFO - *** Account Registration Test is passed ***
+2024-11-08 12:01:01,959  - INFO - *** Account Registration Test is passed ***
+2024-11-08 12:01:02,835  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 12:01:02,835  - INFO - *** test_001_Account Registartion Test is finished ***
+2024-11-08 12:01:09,485  - INFO -  *** Starting test_002_login ***
+2024-11-08 12:01:09,485  - INFO -  *** Starting test_002_login ***
+2024-11-08 12:01:16,880  - INFO - *** test_002_login test is passed  ****
+2024-11-08 12:01:16,880  - INFO - *** test_002_login test is passed  ****
+2024-11-08 12:01:16,880  - INFO - *** test_002_login test is finished  ****
+2024-11-08 12:01:16,880  - INFO - *** test_002_login test is finished  ****
