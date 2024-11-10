@@ -17,7 +17,7 @@ class LogGen:
 
 # Add the handlers to the logger
         logger.addHandler(handler)
-       
+        
         return logger
 
 
