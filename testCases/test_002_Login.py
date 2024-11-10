@@ -3,6 +3,7 @@
 
 
 import time
+import pytest
 from selenium.webdriver.chrome.webdriver import WebDriver
 
 from pageObjects.HomePage import HomePage
@@ -19,6 +20,8 @@ class Test_002_Login():
 
     logger = LogGen.loggen()
 
+     
+    @pytest.mark.sanity
     def test_login(self, setup: WebDriver):
        self.driver = setup
        self.driver.get(self.baseURL)

@@ -19,6 +19,7 @@ class Test_001_AccountReg():
 
     logger  =   LogGen.loggen()
 
+    @pytest.mark.sanity
     def test_account_reg(self,setup):
         self.driver = setup
         self.driver.get(self.baseURL)
