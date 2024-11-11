@@ -1,21 +1,26 @@
 
+import os
 import time
 import pytest
 from selenium.webdriver.chrome.webdriver import WebDriver
 
 from utilities.readProperties import ReadConfig 
+from utilities.xLutils import Rd_excel
 from pageObjects.HomePage import HomePage
 from pageObjects.LoginPage import LoginPage
 from pageObjects.MyAccountPage import MyAccountPage
 
 
+
 class Test_003_MyAccount_DTT():
 
     baseURL = ReadConfig.getApplicationURL()
-    email   = ReadConfig.getEmail()
-    password = ReadConfig.getPassword()
+    
 
-
+    lst_result = []
+    xlpath = os.path.abspath(os.curdir)+"\\testData\\testData.xlsx"
+    sheet= "Sheet1"
+    data_excel = Rd_excel(xlpath,sheet)
 
     @pytest.mark.regression
     def test_003(self,setup: WebDriver):
@@ -26,28 +31,61 @@ class Test_003_MyAccount_DTT():
 
         ##Calling Home Page class(object)
         self.hp = HomePage(self.driver)
-        self.hp.clickMyAccount()
-        self.hp.clickLogin()
+        
 
         self.driver.implicitly_wait(3)
 
         ## calling login page calss
         self.loginPage = LoginPage(self.driver)
-
-        self.loginPage.setEmail(self.email)
-
-        self.loginPage.setPassword(self.password)
- 
-        self.loginPage.click_Login()
-
-        self.driver.implicitly_wait(3)
-
         ##calling My account class
         self.ma = MyAccountPage(self.driver)
-        self.hp.clickMyAccount()
-        self.ma.click_Logout()
+        self.rows =self.data_excel.getRowCont()
+        
+        for r in range (2,self.rows+1):
 
-        time.sleep(4)
+            self.hp.clickMyAccount()
+            self.hp.clickLogin()
+
+            self.loginPage.setEmail(self.data_excel.readData(r,2))
+
+            self.loginPage.setPassword(self.data_excel.readData(r,3))
+
+            self.expect = self.data_excel.readData(r,4)
+    
+            self.loginPage.click_Login()
+
+            self.driver.implicitly_wait(3)
+
+            time.sleep(1)
+
+
+            if self.expect == "valid" :
+
+                if self.loginPage.getLoginCnf() == True:
+
+                    self.lst_result.append("Pass")
+                    #self.hp.clickMyAccount()
+                    time.sleep(1)
+                    self.ma.click_Logout()
+                else: 
+                    self.lst_result.append("Fail")
+            elif self.expect == "invalid":
+                if self.loginPage.getLoginCnf() == True:
+                    self.lst_result.append("Fail")
+                    self.ma.click_Logout()
+                else:
+                    self.lst_result.append("Pass")
+
+
+        if "Fail" not in self.lst_result:
+            assert True
+        else:
+            assert False
+
+                
+
+
+            
 
 
 
@@ -63,5 +101,4 @@ class Test_003_MyAccount_DTT():
         
         
         
-        print('bobby')
-        assert True
+    

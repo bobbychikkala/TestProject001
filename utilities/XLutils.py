@@ -4,9 +4,10 @@ import os
 class Rd_excel():
 
     def __init__(self,file,sheetName):
-        self.workbook = openpyxl.load_workbook(file)
-        self.sheet = self.workbook[sheetName]
         self.file = file
+        self.workbook = openpyxl.load_workbook(self.file)
+        self.sheet = self.workbook[sheetName]
+        
 
     def getRowCont(self):
         self.rows = self.sheet.max_row
@@ -28,8 +29,8 @@ class Rd_excel():
         
     
 
-file = os.path.abspath(os.curdir)+ "\\testData\\testData.xlsx"  #"D:\\pythonWS\\Project_001\\testData\\testData.xlsx"
-sheet= "Sheet1"
+# file = os.path.abspath(os.curdir)+ "\\testData\\testData.xlsx"  #"D:\\pythonWS\\Project_001\\testData\\testData.xlsx"
+# sheet= "Sheet1"
 
 # xlObj = Rd_excel(file,sheet)
 

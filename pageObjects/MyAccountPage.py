@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 
 
 class MyAccountPage:
-    btn_logout_xpath = "//*[contains(text(),'Logout')]"
+    btn_logout_xpath = "//a[contains(text(),'Logout') and @class='list-group-item']"
 
 
 
