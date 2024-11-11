@@ -3,7 +3,7 @@ from datetime import *
 import time
 import pytest
 
-
+import os
 from utilities import readProperties
 #from selenium.webdriver.chrome.webdriver import WebDriver
 
@@ -62,7 +62,8 @@ class Test_001_AccountReg():
             assert True
         else:
             ct = getCurrentTime()
-            self.driver.save_screenshot(f'D:\\pythonWS\\Project_001\\screenshots\\Test_AccReg{ct} .png')
+            file = os.path.abspath(os.curdir)+f'\\screenshots\\Test_001_AccReg{ct} .png'
+            self.driver.save_screenshot(file)
             self.logger.error("*** Account Registration Test is Failed *** ")
             assert False
         

@@ -1,5 +1,5 @@
 import openpyxl
-
+import os
 
 class Rd_excel():
 
@@ -28,16 +28,16 @@ class Rd_excel():
         
     
 
-file = "D:\\pythonWS\\Project_001\\testData\\testData.xlsx"
+file = os.path.abspath(os.curdir)+ "\\testData\\testData.xlsx"  #"D:\\pythonWS\\Project_001\\testData\\testData.xlsx"
 sheet= "Sheet1"
 
-xlObj = Rd_excel(file,sheet)
+# xlObj = Rd_excel(file,sheet)
 
 # print(xlObj.getRowCont())
 # print(xlObj.getColumnCount())
 
 # print(xlObj.readData(1,2))
-# xlObj.writeData(8,2,"Siva")
+# xlObj.writeData(8,2,"SivaKumar")
 
 # print(xlObj.readData(2,2))
 # print(xlObj.readData(3,2))

@@ -2,6 +2,7 @@
 
 
 
+import os
 import time
 import pytest
 from selenium.webdriver.chrome.webdriver import WebDriver
@@ -52,8 +53,9 @@ class Test_002_Login():
             self.logger.info('*** test_002_login test is passed  ****')
        else:
             ct = getCurrentTime()
-            print(ct)
-            self.driver.save_screenshot(f'D:\\pythonWS\\Project_001\\screenshots\\login{ct}.png')
+            #print(ct)
+            file =  os.path.abspath(os.curdir)+f'\\screenshots\\login{ct}.png'
+            self.driver.save_screenshot(file)
             self.logger.error('*** test_002_login test is failed  ****')
             assert False
        self.logger.info('*** test_002_login test is finished  ****')

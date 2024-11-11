@@ -1,5 +1,5 @@
 import logging
-
+import os
 class LogGen:
     @staticmethod
     def loggen():
@@ -9,7 +9,8 @@ class LogGen:
         logger.setLevel(logging.DEBUG)
 
 # Create a file handler
-        handler = logging.FileHandler('D:\\pythonWS\\Project_001\\logs\\Automation.log')
+        file = os.path.abspath(os.curdir)+"\\logs\\Automation.log"
+        handler = logging.FileHandler(file)
 
 # Create a logging format
         formatter = logging.Formatter('%(asctime)s  - %(levelname)s - %(message)s')
