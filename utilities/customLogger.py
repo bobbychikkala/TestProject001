@@ -1,5 +1,7 @@
 import logging
 import os
+
+
 class LogGen:
     @staticmethod
     def loggen():
@@ -18,7 +20,7 @@ class LogGen:
 
 # Add the handlers to the logger
         logger.addHandler(handler)
-        
+
         return logger
 
 
