@@ -34,5 +34,5 @@ def setup():
 # @pytest.hookimpl(tryfirst=True)
 # def pytest_configure(config):
     
-#     config.option.htmlpath = os.path.abspath(os.curdir)+"\\reports\\"+datetime.now().strftime("%d%m%y%H%M%S")+".html"
+#     config.option.htmlpath = os.path.abspath(os.curdir)+"\\reports_\\"+datetime.now().strftime("%d%m%y%H%M%S")+".html"
 

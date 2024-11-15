@@ -1,24 +1,23 @@
 from datetime import *
-
+import warnings
 import time
-import pytest
-
 import os
 from utilities import readProperties
-#from selenium.webdriver.chrome.webdriver import WebDriver
-
 from pageObjects.AccountRegistrationPage import AccountRegistrationPage
 from pageObjects.HomePage import HomePage
 from utilities.currentTime import getCurrentTime
 from utilities.customLogger import LogGen
 from utilities.randomString import random_string
+import pytest
 
-
-class Test_001_AccountReg():
+class Test_001_AccountReg:
     baseURL         =      readProperties.ReadConfig.getApplicationURL()
 
     logger  =   LogGen.loggen()
 
+
+
+    @pytest.mark.run(order=4)
     @pytest.mark.sanity
     def test_account_reg(self,setup):
         self.driver = setup
@@ -54,12 +53,12 @@ class Test_001_AccountReg():
         self.confMsg = self.regpage.getConfirmation()
 
         print(self.confMsg)
-        # pytest --html=reports/report.html --self-contained-html
+        # pytest --html=reports_/report.html --self-contained-html
 
         print(self.confMsg)
         if self.confMsg == 'Your Account Has Been Created!':
             self.logger.info("*** Account Registration Test is passed ***")
-            assert True
+            assert 1 == 1
         else:
             ct = getCurrentTime()
             file = os.path.abspath(os.curdir)+f'\\screenshots\\Test_001_AccReg{ct} .png'
@@ -69,12 +68,3 @@ class Test_001_AccountReg():
         
         self.driver.close()
         self.logger.info('*** test_001_Account Registartion Test is finished ***')
-        
-        
-
-
-
-
-       
-
-

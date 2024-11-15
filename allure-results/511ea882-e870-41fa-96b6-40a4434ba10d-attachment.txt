@@ -1,0 +1,4 @@
+[32mINFO    [0m utilities.customLogger:test_004_PC.py:20 *** --Test004-- Application Launching Started ***
+[32mINFO    [0m utilities.customLogger:test_004_PC.py:25 *** --Test004-- Moving on Desktop ***
+[32mINFO    [0m utilities.customLogger:test_004_PC.py:26 *** --Test004-- Clicking on PC ***
+[32mINFO    [0m utilities.customLogger:test_004_PC.py:33 *** --Test004-- is Passed

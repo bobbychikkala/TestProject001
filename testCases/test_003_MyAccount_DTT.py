@@ -19,6 +19,7 @@ class Test_003_MyAccount_DTT():
     data_excel = Rd_excel(xlpath, sheet)
 
     @pytest.mark.regression
+    @pytest.mark.run(order=2)
     def test_003(self, setup: WebDriver):
         self.driver = setup
         self.driver.get(self.baseURL)
@@ -52,7 +53,7 @@ class Test_003_MyAccount_DTT():
 
             self.driver.implicitly_wait(3)
 
-            time.sleep(1)
+            time.sleep(0)
 
             if self.expect == "valid":
 
@@ -75,3 +76,4 @@ class Test_003_MyAccount_DTT():
             assert True
         else:
             assert False
+        self.driver.close()

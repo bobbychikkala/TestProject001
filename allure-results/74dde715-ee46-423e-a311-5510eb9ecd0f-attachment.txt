@@ -1,0 +1,3 @@
+[32mINFO    [0m utilities.customLogger:test_002_Login.py:26  *** Starting test_002_login ***
+[32mINFO    [0m utilities.customLogger:test_002_Login.py:50 *** test_002_login test is passed  ****
+[32mINFO    [0m utilities.customLogger:test_002_Login.py:58 *** test_002_login test is finished  ****

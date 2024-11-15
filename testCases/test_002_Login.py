@@ -1,7 +1,3 @@
-
-
-
-
 import os
 import time
 import pytest
@@ -23,6 +19,7 @@ class Test_002_Login():
 
      
     @pytest.mark.sanity
+    @pytest.mark.run(order=3)
     def test_login(self, setup: WebDriver):
        self.driver = setup
        self.driver.get(self.baseURL)
